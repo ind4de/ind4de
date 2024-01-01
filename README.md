@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Debargho_Basak-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/debargho-basak-477b43150/)](https://www.linkedin.com/in/debargho-basak-477b43150/)
 [![Gmail Badge](https://img.shields.io/badge/-debarghobasak-D14836?style=flat&logo=gmail&logoColor=white&link=mailto:debarghobasakde@gmail.com)](mailto:debarghobasakde@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-db.io-ff7139?style=flat&link=https://tintindas.github.io/)]()
+[![Website Badge](https://img.shields.io/badge/-db99.github.io-ff7139?style=flat&link=https://ind4de.github.io/db99.github.io/)](https://ind4de.github.io/db99.github.io/)
 
 Hi, I'm **Debargho Basak**. I _read_, I _write_ and I _build_ for AI models.
 
