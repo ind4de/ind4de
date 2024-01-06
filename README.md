@@ -37,19 +37,22 @@ Hi, I'm **Debargho Basak**. I _read_, I _write_ and I _build_ for AI models.
 <table>
     <tr>
         <td>
-            <img alt='javascript' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/> 
+            <img alt='cassandra' width='32px' height='32px' src='https://skillicons.dev/icons?i=cassandra'/> 
         </td>
         <td>
             <img alt='mysql' width='32px' height='32px' src='https://skillicons.dev/icons?i=mysql'/>
         </td>
         <td>
-            <img alt='python' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>
+            <img alt='python' width='32px' height='32px' src='https://skillicons.dev/icons?i=py'/>
         </td>
         <td>
             <img alt='mongodb' width='32px' height='32px' src='https://skillicons.dev/icons?i=mongodb'/>
         </td>
         <td>
             <img alt='c++' width='32px' height='32px' src='https://skillicons.dev/icons?i=cpp'/>
+        </td>
+        <td>
+            <img alt='git' width='32px' height='32px' src='https://skillicons.dev/icons?i=github'/>
         </td>
     </tr>
 </table>
@@ -59,7 +62,7 @@ Hi, I'm **Debargho Basak**. I _read_, I _write_ and I _build_ for AI models.
 <table>
     <tr>
         <td>
-            <img alt='react' width='32px' height='32px' src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/> 
+            <img alt='blender' width='32px' height='32px' src='https://skillicons.dev/icons?i=blender'/> 
         </td>
         <td>
             <img alt='cmake' width='32px' height='32px' src='https://skillicons.dev/icons?i=cmake'/>
